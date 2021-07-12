@@ -1,0 +1,38 @@
+.login-page-wrapp {
+  height: 100vh;
+}
+
+.login-form-wrap {
+  width: 50%;
+}
+
+.login-form-wrap .form-card {
+  max-width: 500px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+
+.login-greeting-screen {
+  background: rgb(66, 197, 147);
+  width: 50%;
+  padding: 20px;
+}
+
+.login-greeting-screen .login-greeting-screen-text {
+  max-width: 500px;
+}
+
+.login-greeting-screen .login-greeting-screen-text {
+  color: white;
+}
+
+.login-greeting-screen .login-greeting-screen-title {
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+
+.login-greeting-screen .login-greeting-screen-description {
+  line-height: 1.4;
+}
